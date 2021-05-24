@@ -1,5 +1,5 @@
 ============
-datacube-ows
+datacube-ows (forked)
 ============
 
 .. image:: https://github.com/opendatacube/datacube-ows/workflows/Linting/badge.svg
